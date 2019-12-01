@@ -9,6 +9,6 @@ Selenium Java Project for VapasiQA Automation Training
 
 # Setup Instructions
 * Create new JAVA Project in IntelliJ
-* Download Selenium JAVA webdriver from https://selenium.dev/downloads/  OR You can use the files located in "libs" folder
+* Download Selenium JAVA webdriver from https://selenium.dev/downloads/  **OR** use the downloaded JAR files located in "libs" folder
 * Go to Project Settings (File > Project Structure)
 * Add all the downloaded Selenium JAR files as the dependency
